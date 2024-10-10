@@ -1,0 +1,6 @@
+drwxr-xr-x    3 811      808          4096 Oct 05 12:58 .
+drwxr-x---   13 811      99           4096 Oct 05 14:42 ..
+-rw-r--r--    1 811      808          1593 Aug 01  2013 kite-animation.js
+-rw-r--r--    1 811      808         11763 Aug 11  2013 main.js
+-rw-r--r--    1 811      808          1570 Aug 11  2013 responsive-navbar.js
+drwxr-xr-x    2 811      808          4096 Oct 05 12:58 vendor
